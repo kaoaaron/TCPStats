@@ -189,8 +189,8 @@ for x in strunique:
         print 'Source Port:', port1
         print 'Destination Port:', port2
         print 'Start Time: ', str(datetime.datetime.utcfromtimestamp(firstSynTime))
-        print 'End Time: ', str(datetime.datetime.utcfromtimestamp(lastFinTime))
-        print 'Duration: ', duration, 'seconds'
+       # print 'End Time: ', str(datetime.datetime.utcfromtimestamp(lastFinTime))
+       # print 'Duration: ', duration, 'seconds'
         print ip1,'Port:', port1, '-->', ip2, 'Port:', port2, '(packet count:', dir1, ',data bytes:', datadir1, ")"
         print ip2,'Port:', port2,'-->', ip1, 'Port:', port2,'(packet count:', dir2, ',data bytes', datadir2, ")"
         print 'Total Packets:', dir1+dir2
