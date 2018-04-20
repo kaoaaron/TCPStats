@@ -13,7 +13,7 @@ TCPstats.py
 readme.txt
 
 Adknowledgements: 
-Thanks to the students of the CSC 361 class on asking questions to fully specify and define the assignment.
+Thanks to the students of the CSC 361 (University of Victoria Spring 2018 taught by Dr. Kui Wu) class on asking questions to fully specify and define the assignment.
 I started this assignment fairly late, and if the students did not ask questions, I would have had to make decisions.
 
 Requirements:
